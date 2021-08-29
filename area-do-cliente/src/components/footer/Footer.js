@@ -5,7 +5,7 @@ import './Footer.css'
 const Footer = () => (
     <footer className="app-footer">
         <span className="app-footer__message">
-            blog.matheuscastiglioni.com.br
+            gabrielfreitas.ilustra@gmail.com
         </span>
     </footer>
 )
